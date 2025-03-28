@@ -1,7 +1,7 @@
 # SSM-CarRental
 基于SSM和layUI的汽车租赁系统设计
 
-演示视频链接：https://live.csdn.net/v/252179
+演示视频链接：https://www.bilibili.com/video/BV1CG4y1Z747/
 
 使用的技术
 
